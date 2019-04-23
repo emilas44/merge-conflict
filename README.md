@@ -1,2 +1,1 @@
-# merge-conflict
-# merge-conflict
+# Merge conflict testing
