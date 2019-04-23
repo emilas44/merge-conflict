@@ -1,3 +1,3 @@
 <?php
 
-echo 'file2 <br>';
+$var2 = 'file2';
